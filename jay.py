@@ -3,3 +3,4 @@ def isOddOrEven(n):
         return true
     else:
         return false
+        print("no")
